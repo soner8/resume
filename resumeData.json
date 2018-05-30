@@ -1,0 +1,173 @@
+{
+  "main": {
+    "name":"Maco",
+    "contactName":"Macodou DIENG",
+    "occupation":"FullStack Javascript Developer",
+    "description":"I love to learn new things as much as I love coffee. Building nice animations and creating intuitive, dynamic user experiences is definitely my goal. ",
+    "image":"profilepic.jpg",
+    "bio":"My name is Maco and I am a Junior FullStack Javascript Developer. I am a React and Node enthusiast. When I am not coding, I like to walk around and get lost in the city, practice wakeboard and other extreme sports. I could not imagine a day without music. Let's grab a coffee and start a new journey !",
+    "contactmessage":"Feel free to contact me, I'll be glad to chat with you.",
+    "email": "maco.dou@hotmail.com",
+    "phone": "+33615990339",
+    "address":{
+      "street":"204 rue Sainte Catherine",
+      "city":"Bordeaux",
+      "state":"Gironde",
+      "zip": "33800"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://www.docdroid.net/Z6uLrGT/curriculum-vitae-macodou-dieng-developpeur-fullstack.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/macodou-dieng/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"http://github.com/soner8",
+        "className":"fa fa-github"
+      }
+    ],
+    "techno":[
+      {
+        "name":"HTML",
+        "className":"fa fa-html5"
+      },
+
+      {
+        "name":"CSS",
+        "className":"fab fa-css3-alt"
+      },
+      {
+        "name":"JS",
+        "className":"fab fa-js"
+      },
+      {
+        "name":"React",
+        "className":"fab fa-react"
+      },
+      {
+        "name":"Node",
+        "className":"fab fa-node"
+      },
+      {
+        "name":"NPM",
+        "className":"fab fa-npm"
+      },
+      {
+        "name":"Github",
+        "className":"fab fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Wild Code School",
+        "degree":"FullStack Javascript Developer",
+        "graduated":"February 2018 - Now",
+        "description":"Learning HTML, CSS, Bootstrap, SCSS, JS, NodeJs, ReactJs and more."
+      },
+      {
+        "school":"HighSchool",
+        "degree":"Economy and Social Science",
+        "graduated":"June 2012",
+        "description":"Learned the basics of Economy and Social Science. "
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Wild Code School",
+        "title":"Junior Web Developer",
+        "years":"2018 => 5 months",
+        "description":"Design and develop a web application, understand and formalize the needs of a client, integrate agile methods."
+      },
+      {
+        "company":"Lakeside Paradise",
+        "title":"Wakeboard Instructor",
+        "years":"2014 - 2017  => 2 years",
+        "description":"I had to train the kids from the club and teach wakeboard bascis to begginers. I also had to do the daily maintenance on the machine and the boards."
+      },
+      {
+        "company":"Skiset",
+        "title":"Rental Team Manager",
+        "years":"2012 - 2017 => 3 years",
+        "description":"I was in charge on the rental part of the shop, including the setup of the shop, the workflow, and the workshop."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"/images/logos/git.png"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image":"/images/logos/react.png"
+      },
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image":"/images/logos/node.png"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image":"/images/logos/js.png"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image":"/images/logos/html.svg"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"The only thing that matters in software is the experience of the user.",
+        "user":"Ryan Dahl"
+      }
+    ]
+  }
+}
